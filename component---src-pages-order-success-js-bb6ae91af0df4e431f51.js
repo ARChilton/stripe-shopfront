@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"+AoC":function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),c=t.n(a),i=t("wiPg"),o=function(){var n=Object(i.b)(),e=(n[0],n[1]);return c.a.useEffect((function(){e({type:"EMPTY_CART",payload:{}})}),[]),c.a.createElement("div",null,"Gracias")};e.default=o}}]);
+//# sourceMappingURL=component---src-pages-order-success-js-bb6ae91af0df4e431f51.js.map
